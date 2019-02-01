@@ -1,14 +1,14 @@
 ## LaravelShoppingcart
-[![Build Status](https://travis-ci.org/Crinsane/LaravelShoppingcart.png?branch=master)](https://travis-ci.org/Crinsane/LaravelShoppingcart)
-[![Total Downloads](https://poser.pugx.org/gloudemans/shoppingcart/downloads.png)](https://packagist.org/packages/gloudemans/shoppingcart)
-[![Latest Stable Version](https://poser.pugx.org/gloudemans/shoppingcart/v/stable)](https://packagist.org/packages/gloudemans/shoppingcart)
-[![Latest Unstable Version](https://poser.pugx.org/gloudemans/shoppingcart/v/unstable)](https://packagist.org/packages/gloudemans/shoppingcart)
-[![License](https://poser.pugx.org/gloudemans/shoppingcart/license)](https://packagist.org/packages/gloudemans/shoppingcart)
+[![Total Downloads](https://poser.pugx.org/grajewsky/shoppingcart/downloads.png)](https://packagist.org/packages/grajewsky/shoppingcart)
+[![Latest Stable Version](https://poser.pugx.org/grajewsky/shoppingcart/v/stable)](https://packagist.org/packages/grajewsky/shoppingcart)
+[![Latest Unstable Version](https://poser.pugx.org/grajewsky/shoppingcart/v/unstable)](https://packagist.org/packages/grajewsky/shoppingcart)
+[![License](https://poser.pugx.org/gloudemgrajewskyans/shoppingcart/license)](https://packagist.org/packages/grajewsky/shoppingcart)
 
 A simple shoppingcart implementation for Laravel.
+## Laravel Support
+Version 2.6 support Laravel 5.7
 
 ## Installation
-
 Install the package through [Composer](http://getcomposer.org/). 
 
 Run the Composer require command from the Terminal:
