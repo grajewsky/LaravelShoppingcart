@@ -6,7 +6,7 @@
 
 A simple shoppingcart implementation for Laravel.
 ## Laravel Support
-Version 2.6 support Laravel 5.7
+Version 2.6.1 support Laravel 5.7
 
 ## Installation
 Install the package through [Composer](http://getcomposer.org/). 
