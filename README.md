@@ -4,6 +4,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/grajewsky/shoppingcart/v/unstable)](https://packagist.org/packages/grajewsky/shoppingcart)
 [![License](https://poser.pugx.org/gloudemgrajewskyans/shoppingcart/license)](https://packagist.org/packages/grajewsky/shoppingcart)
 
+
 A simple shoppingcart implementation for Laravel.
 ## Laravel Support
 Version 2.6.1 support Laravel 5.7
